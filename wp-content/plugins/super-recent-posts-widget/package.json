@@ -1,0 +1,25 @@
+{
+  "name": "super-recent-posts-widget",
+  "description": "A prettier, filterable and more functional recent posts widget that allows you to choose a custom post type or specific taxonomy.",
+  "version": "0.2.3",
+  "homepage": "https://github.com/matstars/super-recent-posts-widget",
+  "author": {
+    "name": "matstars"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:matstars/super-recent-posts-widget.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matstars/super-recent-posts-widget/issues"
+  },
+  
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-cssmin": "~0.6.1",
+    "grunt-contrib-sass": "~0.6.0",
+    "grunt": "~0.4.1"
+  }
+}
